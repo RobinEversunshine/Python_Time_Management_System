@@ -18,21 +18,11 @@ I have made some progress on my time management project. The codes and functions
 
 However, the only issue now is many times I would forget about recording time when starting or finishing a task… Still need to work hard to handle that.
 
-![image (1).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/eba495ae-27ec-4b29-a0c4-e438c9218d5a/528987fa-3b43-41e2-a62a-9b50167aca3e/image_(1).png)
-
 
 
 **Updated Dec 23, 2024:**
 
-![4b968ac0-d92b-460a-bcb3-6089c8651ff2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/eba495ae-27ec-4b29-a0c4-e438c9218d5a/325b84e4-0d5c-42f2-8d9c-520a37c16b5e/4b968ac0-d92b-460a-bcb3-6089c8651ff2.png)
-
-![aff58987-a140-4424-a073-a4c6a624c639.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/eba495ae-27ec-4b29-a0c4-e438c9218d5a/fa7fcdd3-0200-4f56-83a0-069e54f7d1d1/aff58987-a140-4424-a073-a4c6a624c639.png)
-
 Again I refined my codes, and now I have better visualization of time data on different genres, and a calendar that shows me clearly what I’ve done each day!
-
-![c0768985-5ed1-4940-8e49-948e768ec53c.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/eba495ae-27ec-4b29-a0c4-e438c9218d5a/db238f76-3b08-4ceb-aa04-3e11b51dc3cd/c0768985-5ed1-4940-8e49-948e768ec53c.png)
-
-![57bccc80-42d7-43ab-b5f7-92034e147c1b.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/eba495ae-27ec-4b29-a0c4-e438c9218d5a/f319f4ff-796e-4fe3-9ed2-79ee513509a2/57bccc80-42d7-43ab-b5f7-92034e147c1b.png)
 
 I found that in the last week (not including the party) everyday I have nearly 10 hours of useful time, which is unbelievable in the past, even in my most productive days.
 
