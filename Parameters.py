@@ -2,7 +2,7 @@ from notion_client import Client
 
 
 # initialize
-notion = Client(auth="secret_e5VwPByosWlI1dwF6i7WFabyAKodNUrOW5k1HDp6PKk")
+notion = Client(auth="secret_your_secret")
 record_db_id = "cca33204-66b7-4062-affa-a5fbb3805d39"
 calendar_db_id = "15de227c997d80a095c2d4c71528ac82"
 
