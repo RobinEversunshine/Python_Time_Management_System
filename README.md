@@ -10,13 +10,16 @@ If you are always struggling with "where did my time go?", then this tool is bes
 
 Also it's not really necessary to be extremely disciplined, for this tool is merely telling you where you spend your time, so it should be easy to get started.
 
+![image](images/blocks.png)
+
+![image](images/weeklie.png)
 
 
 **Updated Dec 14, 2024:**
 
 I have made some progress on my time management project. The codes and functions are refined, and I also learnt how to run scripts on my iPhone so I can call Siri to add or end a time block at any time. It can't be easier to track time now.
 
-
+![image](images/siri.png)
 
 **Updated Dec 23, 2024:**
 
@@ -28,7 +31,9 @@ Well it's not possible to keep 10 hours of useful time every day, for I also nee
 
 However, for me time seems never enough because after I did more, I still want to spend more time to learn much more stuff 😂
 
+![image](images/statistics.png)
 
+![image](images/calendar.png)
 
 More details & instructions on how to set everything up on my Notion doc:
-https://elevated-temples.notion.site/time-management-system?pvs=4
+https://elevated-temples.notion.site/time-management-system
