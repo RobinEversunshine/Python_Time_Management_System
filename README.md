@@ -31,9 +31,9 @@ Well it's not possible to keep 10 hours of useful time every day, for I also nee
 
 However, for me time seems never enough because after I did more, I still want to spend more time to learn much more stuff 😂
 
+More details & instructions on how to set everything up on my Notion doc:
+https://elevated-temples.notion.site/time-management-system
+
 ![image](images/statistics.png)
 
 ![image](images/calendar.png)
-
-More details & instructions on how to set everything up on my Notion doc:
-https://elevated-temples.notion.site/time-management-system
